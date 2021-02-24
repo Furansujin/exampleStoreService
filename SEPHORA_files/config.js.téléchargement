@@ -1,0 +1,2 @@
+
+window[window["TiktokAnalyticsObject"]].instance("C01GMPU9CSIJN7ECSD30").setAdvancedMatchingAvailableProperties({"email":true,"phone_number":true});
